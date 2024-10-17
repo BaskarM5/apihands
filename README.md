@@ -1,6 +1,6 @@
 # React API Fetching App
 
-![App Screenshot](./Screenshot 2024-10-17 205707.png)
+![App Screenshot](./svg/code.png)
 
 This is a simple React application that demonstrates fetching data from an API and displaying it in a user-friendly format. The app fetches user data from the JSONPlaceholder API and displays details like the user's ID, username, email, phone number, and website.
 
