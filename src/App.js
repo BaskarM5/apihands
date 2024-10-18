@@ -28,10 +28,10 @@ function App() {
       </div>
       
       <div className="res">
-        <h1>Fetched DATA:</h1>
         {todos.length > 0 ? (
           todos.map((todo) => ( 
             <div key={todo.id} className="todo-item">
+              <h2>FETCHED DATA:</h2>
               <h3>ID: {todo.id}</h3> 
               <h3>NAME:{todo.username}</h3>
               <h3>email: {todo.email}</h3>
