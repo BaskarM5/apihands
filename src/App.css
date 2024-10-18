@@ -6,6 +6,7 @@
 }
 .div, .todo-item{
 margin-left: 500px;
+  color: cadetblue;
 }
 button{
   text-decoration: solid;
