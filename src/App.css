@@ -4,7 +4,7 @@
   color: cadetblue;
   margin-left: 100px;
 }
-.div{
+.div, .todo-item{
 margin-left: 500px;
 }
 button{
